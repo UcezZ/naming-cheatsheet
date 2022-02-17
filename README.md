@@ -4,6 +4,8 @@
   </a>
 </p>
 
+- commit 1 in NEW branch1
+
 # Naming cheatsheet
 
 - commit 1 commit 2 commit 3
