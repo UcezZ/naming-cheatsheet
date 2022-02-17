@@ -8,6 +8,7 @@
 
 - commit 1 commit 2 commit 3
 - bebebe with bababa
+- new commit 1
 
 - [English language](#english-language)
 - [Naming convention](#naming-convention)
