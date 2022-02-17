@@ -6,7 +6,7 @@
 
 # Naming cheatsheet
 
-- commit 1
+- commit 1 commit 2
 
 - [English language](#english-language)
 - [Naming convention](#naming-convention)
