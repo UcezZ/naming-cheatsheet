@@ -6,7 +6,7 @@
 
 # Naming cheatsheet
 
-- bebebe
+- bebebe with bababa
 
 - [English language](#english-language)
 - [Naming convention](#naming-convention)
