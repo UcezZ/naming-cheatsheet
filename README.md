@@ -6,10 +6,7 @@
 
 # Naming cheatsheet
 
-<<<<<<< HEAD
 - commit 1 commit 2 commit 3
-=======
->>>>>>> branch2
 - bebebe with bababa
 
 - [English language](#english-language)
